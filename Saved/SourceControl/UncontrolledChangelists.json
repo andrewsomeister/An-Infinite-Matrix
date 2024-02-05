@@ -11,9 +11,16 @@
 				"C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
 				"C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
 				"C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HealthBar.uasset",
+				"C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthBarFull.uasset",
+				"C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HelathBarEmpty.uasset",
+				"C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/T_Restart.uasset",
+				"C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthBarEmpty.uasset",
+				"C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthBar.uasset",
+				"C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Score.uasset",
+				"C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Score_Widget.uasset",
 				"C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/NewWidgetBlueprint.uasset",
-				"C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/NewWidgetBlueprint.uasset",
-				"C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HealthBar.uasset"
+				"C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/NewWidgetBlueprint.uasset"
 			]
 		}
 	]
