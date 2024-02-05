@@ -2682,3 +2682,81 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.05-02.54.28:493][575]LogPython: Error: SyntaxError: invalid syntax (<string>, line 1)
 [2024.02.05-02.54.28:493][575]LogPython: Error:   git add *
 [2024.02.05-02.54.28:493][575]LogPython: Error:       ^
+[2024.02.05-02.57.19:344][640]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.05-02.57.19:370][640]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.05-02.57.19:387][640]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.05-02.57.19:415][641]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.02.05-02.57.25:809][889]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_HealthPack
+[2024.02.05-02.57.25:832][889]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.05-02.57.30:342][958]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
+[2024.02.05-02.57.30:345][958]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-02.57.30:345][958]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-02.57.30:565][958]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2024.02.05-02.57.44:347][414]LogSlate: Took 0.000793 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.05-03.02.51:112][459]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2024.02.05-03.02.51:116][459]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.050
+[2024.02.05-03.02.51:118][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack] ([2] browsable assets)...
+[2024.02.05-03.02.51:118][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack]
+[2024.02.05-03.02.51:130][459]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Blueprints/BP_HealthPack_Auto7
+[2024.02.05-03.02.51:130][459]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Saved/BP_HealthPack_Auto730491FF346529F272A455194BF6093EC.tmp' to '../../../../../../Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_HealthPack_Auto7.uasset'
+[2024.02.05-03.02.51:132][459]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.02.05-03.03.06:586][537]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\andre\Downloads\health-pick-up-v1\source\Health Pick Up V1.fbx)
+[2024.02.05-03.03.06:621][537]LogFbx: Loading FBX Scene from C:\Users\andre\Downloads\health-pick-up-v1\source\Health Pick Up V1.fbx
+[2024.02.05-03.03.06:639][537]LogFbx: FBX Scene Loaded Succesfully
+[2024.02.05-03.03.14:104][537]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.02.05-03.03.14:266][537]LogMaterial: Display: Material /Game/InfiniteMatrix/Meshes/holo_shader_vfxforge_Blue.holo_shader_vfxforge_Blue needed to have new flag set bUsedWithSkeletalMesh !
+[2024.02.05-03.03.14:401][537]LogFbx: Triangulating skeletal mesh Inner_pipe
+[2024.02.05-03.03.14:427][537]LogMaterial: Display: Material /Game/InfiniteMatrix/Meshes/holo_shader_vfxforge_Dark_Green.holo_shader_vfxforge_Dark_Green needed to have new flag set bUsedWithSkeletalMesh !
+[2024.02.05-03.03.14:456][537]LogFbx: Triangulating skeletal mesh Middle_Pipe
+[2024.02.05-03.03.14:481][537]LogFbx: Triangulating skeletal mesh Outer_Pipe
+[2024.02.05-03.03.14:505][537]LogMaterial: Display: Material /Game/InfiniteMatrix/Meshes/holo_shader_vfxforge_Red.holo_shader_vfxforge_Red needed to have new flag set bUsedWithSkeletalMesh !
+[2024.02.05-03.03.14:533][537]LogFbx: Triangulating skeletal mesh Ability
+[2024.02.05-03.03.14:536][537]LogMaterial: Display: Material /Game/InfiniteMatrix/Meshes/holo_shader_vfxforge_Green.holo_shader_vfxforge_Green needed to have new flag set bUsedWithSkeletalMesh !
+[2024.02.05-03.03.14:565][537]LogFbx: Triangulating skeletal mesh Health
+[2024.02.05-03.03.14:577][537]LogFbx: Bones digested - 6  Depth of hierarchy - 2
+[2024.02.05-03.03.14:765][537]LogSkeletalMesh: Section 0: Material=0, 3140 triangles
+[2024.02.05-03.03.14:765][537]LogSkeletalMesh: Section 1: Material=1, 1600 triangles
+[2024.02.05-03.03.14:765][537]LogSkeletalMesh: Section 2: Material=2, 24 triangles
+[2024.02.05-03.03.14:765][537]LogSkeletalMesh: Section 3: Material=3, 268 triangles
+[2024.02.05-03.03.14:812][537]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.02.05-03.03.14:816][537]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Health_Pick_Up_V1) ...
+[2024.02.05-03.03.14:822][537]LogSkeletalMesh: Building Skeletal Mesh Health_Pick_Up_V1...
+[2024.02.05-03.03.14:964][537]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/InfiniteMatrix/Meshes/Health_Pick_Up_V1.Health_Pick_Up_V1
+[2024.02.05-03.03.15:078][537]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-03.03.15:078][537]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-03.03.15:314][537]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-03.03.15:314][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-03.03.15:341][537]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.02.05-03.03.15:341][537]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.02.05-03.03.17:151][582]LogShaderCompilers: Error: SCW 1 Queued Jobs, Finished 0 single jobs
+[2024.02.05-03.03.17:151][582]LogShaderCompilers: Error: Job 0 [Single] Failed: holo_shader_vfxforge_Red_e1c52b372b4f3785/Default/FLocalVertexFactory/TBasePassVSFNoLightMapPolicy/0:/Engine/Private/BasePassVertexShader.usf|Main VF 'FLocalVertexFactory' Type 'TBasePassVSFNoLightMapPolicy' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+[2024.02.05-03.03.17:173][583]LogShaderCompilers: Error: ShaderCompileWorker crashed!
+Assertion failed: bDirectoryExists [File:D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\ShaderCore.cpp] [Line: 2755] 
+FPaths::DirectoryExists(C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Intermediate/ShaderAutogen C:/Users/andre/Documents/Unreal Projects/InfiniteMatrixStarter/Intermediate/ShaderAutogen) ANDREW_LAPTOP
+
+0x00007ff78e742b3a ShaderCompileWorker.exe!FWorkLoop::ProcessInputFromArchive() []
+0x00007ff78e73eb09 ShaderCompileWorker.exe!FWorkLoop::Loop() []
+0x00007ff78e73babb ShaderCompileWorker.exe!GuardedMain() []
+0x00007ff78e73bd52 ShaderCompileWorker.exe!GuardedMainWrapper() []
+0x00007ff78e74d989 ShaderCompileWorker.exe!wmain() []
+0x00007ff78e74f09c ShaderCompileWorker.exe!__scrt_common_main_seh() []
+0x00007ffb5663257d KERNEL32.DLL!UnknownFunction []
+0x00007ffb570eaa58 ntdll.dll!UnknownFunction []
+
+
+
+
+[2024.02.05-03.03.17:174][583]LogShaderCompilers: Error: File path: "C:/Users/andre/AppData/Local/Temp/UnrealShaderWorkingDir/6751AB9545142B5805B66088DD24EBBD/0/WorkerOutputOnly.out"
+Expecting single job header ID 0x00000053, got 0x00000000 instead!
+Forgot to build ShaderCompileWorker or delete invalidated DerivedDataCache?
+
+[2024.02.05-03.03.21:810][726]Message dialog closed, result: Ok, title: Corrupted ShaderCompileWorker output file, text: File path: "C:/Users/andre/AppData/Local/Temp/UnrealShaderWorkingDir/6751AB9545142B5805B66088DD24EBBD/0/WorkerOutputOnly.out"
+Expecting single job header ID 0x00000053, got 0x00000000 instead!
+Forgot to build ShaderCompileWorker or delete invalidated DerivedDataCache?
+[2024.02.05-03.03.21:814][726]LogWindows: FPlatformMisc::RequestExit(0, ShaderCompiler.ModalErrorOrLog)
+[2024.02.05-03.03.21:814][726]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0, ShaderCompiler.ModalErrorOrLog)
+[2024.02.05-03.03.21:814][726]LogCore: Engine exit requested (reason: Win RequestExit)
+[2024.02.05-03.03.21:818][726]LogShaderCompilers: Error: File path: "C:/Users/andre/AppData/Local/Temp/UnrealShaderWorkingDir/6751AB9545142B5805B66088DD24EBBD/0/WorkerOutputOnly.out"
+Expecting 1 single job, got 0 instead!
+Forgot to build ShaderCompileWorker or delete invalidated DerivedDataCache?
+
